@@ -1,0 +1,169 @@
+.contenedor {
+    min-width: 400px;
+    height: 100vh;
+}
+
+#logo {
+    min-width: 150px;
+}
+
+.border-bottom-black {
+    border-bottom: 3px solid grey;
+}
+
+.cancelar {
+    width: 30px;
+}
+
+td:last-of-type {
+    text-align: center;
+}
+
+.border-right-black {
+    border-right: 3px solid grey;
+}
+
+.logos {
+    max-width: 45px !important;
+}
+
+.bg-ligh-grey {
+    background-color: lightgrey;
+}
+
+.bg-blue {
+    background-color: darkblue !important;
+}
+
+.breadcrumb {
+    background-color: transparent !important;
+}
+
+.breadcrumb-item a {
+    color: white !important;
+    text-decoration: underline;
+}
+
+.breadcrumb-item a:hover {
+    color: lightgrey !important;
+}
+
+.active {
+    color: white !important;
+}
+
+.white {
+    color: white;
+}
+
+.button {
+    background-color: darkblue;
+    border: 1px solid grey;
+    color: white;
+}
+
+.button:hover {
+    cursor: pointer;
+}
+
+.big-black-border {
+    border: 2px solid black;
+}
+
+.big-black-border-pane {
+    border-top: 2px solid black !important;
+    border-left: 2px solid black !important;
+    border-right: 2px solid black !important;
+}
+
+.articulo, .bg-white {
+    background-color: white;
+}
+
+.articulo a {
+    color: black;
+}
+
+.articulo a:hover {
+    color: black;
+}
+
+.articulo article img {
+    max-height: 200px !important;
+    display: block;
+    margin: 0 auto;
+}
+
+.tachar {
+    text-decoration: line-through;
+    color: red !important;
+}
+
+.nav-item, .tab-pane {
+    color: black !important;
+}
+
+h5 {
+    color: darkgrey;
+}
+
+h2 {
+    text-align: center;
+}
+
+h2 > span {
+    color: red;
+    text-decoration: line-through;
+}
+
+h1 {
+    text-align: left;
+    color: darkblue !important;
+}
+
+input[type="submit"]{
+    background-color: darkblue;
+    color: white;
+    border: 2px solid black;
+}
+
+.boton {
+    background-color: #159c00 !important;
+}
+
+.boton:hover {
+    background-color: #107800 !important;
+}
+
+.alerta {
+    color: red;
+}
+
+table {
+    width: 100%;
+}
+
+thead tr {
+    background-color: lightgrey;
+}
+
+table, tr, td, th {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.nom {
+    border: 1px solid black;
+    border-radius: 100%;
+    padding: 6px 12px;
+    margin: 0px;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+}
+
+#redes img {
+    max-width: 50px;
+}
